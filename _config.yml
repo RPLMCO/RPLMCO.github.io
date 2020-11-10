@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "RPLMCO"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "bleep, bloop" # site tagline that appears below site title in masthead
 name                     : "Rashad"
 description              : "A Place where Stuff Goes"
 url                      : "https://rplmco.github.io"
